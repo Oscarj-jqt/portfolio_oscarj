@@ -1,0 +1,2 @@
+.classList.toggle('class') :
+Ca transforme la classe d'un élément sélectionné JS
