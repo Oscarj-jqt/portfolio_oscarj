@@ -528,9 +528,15 @@ h2 {
 
 .realisations .box-container .box h3 {
     line-height: 2;
-    font-size: 16px;
+    font-size: 14px;
     padding: 1rem 0;
     color: var(--black);
+    text-transform: none;
+}
+.realisations .box-container .box h3:hover {
+    font-size: 15px;
+    font-weight: bolder;
+    color: var(--blue);
 }
 
 .contact {
